@@ -108,3 +108,6 @@ pipeline {
 
 	}
 }
+
+
+//intruction: https://www.jfrog.com/confluence/display/JFROG/Declarative+Pipeline+Syntax
