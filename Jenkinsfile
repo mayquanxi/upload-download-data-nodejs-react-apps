@@ -82,7 +82,7 @@ pipeline {
 			steps{
 				echo "This is stage Deploy app node-react on Docker container"
 				rtDownload (
-				    serverId: 'Artifactory-1',
+				    serverId: 'jfrogserver',
 				    spec: '''{
 				          "files": [
 				            {
